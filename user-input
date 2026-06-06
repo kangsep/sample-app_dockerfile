@@ -1,0 +1,5 @@
+#!/bin/bash
+echo -n "Enter ngaran maneh: "
+read userName
+echo "Ngaran maneh teh $userName."
+
